@@ -15,7 +15,7 @@ ipconfig /renew
 ipconfig /displaydns | clip
 ```
 ## Domain Resolution
-### To properly determine the IP address of networkchuck.coffee (example), you can use the more reliable ping command
+To properly determine the IP address of networkchuck.coffee (example), you can use the more reliable ping command
 ```bash
 nslookup "networkchuck.coffee"
 ping "networkchuck.coffee"
