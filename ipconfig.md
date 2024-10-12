@@ -20,4 +20,4 @@ ipconfig /displaydns | clip
 nslookup "networkchuck.coffee"
 ping "networkchuck.coffee"
 ```
-Questions? vahe.martirosyan202096@gmail.com
+Any questions? vahe.martirosyan202096@gmail.com
